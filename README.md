@@ -44,4 +44,4 @@ Contoh:
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan ujian sertifikasi dan tidak digunakan untuk tujuan komersial.
+Proyek ini dibuat Sebagai Media Pembelajaran dan tidak digunakan untuk tujuan komersial.
