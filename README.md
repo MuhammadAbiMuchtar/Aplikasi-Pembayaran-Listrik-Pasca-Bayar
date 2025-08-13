@@ -2,8 +2,7 @@
 
 ![Tampilan Home](Images/Home%20.png)
 
-Proyek ini dibuat sebagai bagian dari Tes Sertifikasi Kompetensi **BNSP** pada skema **Analisis Program**.  
-Aplikasi ini digunakan untuk memproses pembayaran listrik pascabayar, mulai dari pendaftaran pelanggan, pengelolaan data admin, perhitungan tagihan, hingga pembuatan bukti pembayaran.
+
 
 ---
 
